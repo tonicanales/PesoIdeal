@@ -9,4 +9,4 @@ index.html - presenta tres formularios con las siguientes opciones:
 La aplicación contiene dos servlets Sradmin y Pesoideal.
 
 - Sradmin recibe por método GET la información del formulario "tabla dinánica" y por método POST la información del formulario "nombre y apellido
-- 
+- Pesoservlet recibe por método POST la información del formulario "peso ideal"
